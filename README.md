@@ -1,6 +1,6 @@
 
 # react-native-otp-autocomplete
-This library was forked from [react-native-otp-verify](https://github.com/faizalshap/react-native-otp-verify) that was deprecated.
+This library was forked from [react-native-otp-autocomplete](https://github.com/jmlavoier/react-native-otp-autocomplete).
 
 It uses Automatic SMS Verification with the SMS Retriever API.
 With the SMS Retriever API, you can perform SMS-based user verification in your Android app automatically, without requiring the user to manually type verification codes, and without requiring any extra app permissions.
@@ -13,9 +13,9 @@ With the SMS Retriever API, you can perform SMS-based user verification in your 
 
 ## Getting started
 
-`$ npm install react-native-otp-autocomplete --save`
+`$ npm install github:csoft-tech/react-native-otp-autocomplete --save`
  or
-`$ yarn react-native-otp-autocomplete`
+`$ yarn add github:csoft-tech/react-native-otp-autocomplete`
 
 ### Using React Native Link (React Native 0.59 and lower)
 `$ react-native link react-native-otp-autocomplete`
